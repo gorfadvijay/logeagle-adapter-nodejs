@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/gorfadvijay/logeagle-adapter-nodejs.git"
   },
-  "author": "Timo Zimmermann",
+  "author": "Vijay Gorfad",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gorfadvijay/logeagle-adapter-nodejs/issues"
